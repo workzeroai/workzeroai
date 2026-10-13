@@ -29,13 +29,39 @@
 2. **사람 승인을 기본으로 한다** — 시스템은 제안하고 기록하며, 실행은 사람이 승인한 뒤에만 합니다.
 3. **현업이 매일 쓰게 만든다** — 만든 날이 아니라 현업이 매일 쓰기 시작한 날을 완료로 봅니다.
 
-<!--
 ## 대표 프로젝트
-Phase 5(공개 전환)에서 공개된 저장소만 카드로 추가한다. 준비 중인 저장소는 노출하지 않는다.
-- ad-ops-approval-engine — 승인형 광고 운영 엔진
-- llm-doc-extraction-pipeline — LLM 문서 추출 파이프라인
-- airtable-korean-ime-fix — 에어테이블 한글 입력 수정 도구
--->
+
+<sub>실무에서 운영한 구조를 회사 코드·데이터 없이, 가상 데이터로 처음부터 다시 구현한 공개 데모입니다.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/workzeroai/ad-ops-approval-engine"><img src="https://raw.githubusercontent.com/workzeroai/ad-ops-approval-engine/main/assets/banner.png" alt="ad-ops-approval-engine"></a>
+
+**[ad-ops-approval-engine](https://github.com/workzeroai/ad-ops-approval-engine)** — 승인형 광고 운영 엔진<br>
+광고 계정을 매일 진단해 규칙으로 조정안을 만들고, 사람이 승인한 것만 반영·재조회 검증·실행 ID로 되돌리기.<br>
+<sub>Python · YAML 규칙 엔진 · SQLite 감사 로그 · 테스트 80개</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/workzeroai/llm-doc-extraction-pipeline"><img src="https://raw.githubusercontent.com/workzeroai/llm-doc-extraction-pipeline/main/assets/banner.png" alt="llm-doc-extraction-pipeline"></a>
+
+**[llm-doc-extraction-pipeline](https://github.com/workzeroai/llm-doc-extraction-pipeline)** — LLM 문서 추출 파이프라인<br>
+PDF를 정해진 형식으로 추출 → 스키마·업무 규칙 검증 → 실패·애매한 건은 사람 확인 대기열로, 정확도까지 측정.<br>
+<sub>Python · JSON Schema · n8n · Gemini/Claude/OpenAI 어댑터 · 테스트 87개</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/workzeroai/airtable-korean-ime-fix"><img src="https://raw.githubusercontent.com/workzeroai/airtable-korean-ime-fix/main/assets/banner.png" alt="airtable-korean-ime-fix"></a>
+
+**[airtable-korean-ime-fix](https://github.com/workzeroai/airtable-korean-ime-fix)** — 에어테이블 한글 입력 수정 도구<br>
+셀 선택 후 한글 첫 글자가 영문으로 새는 문제를, 편집 모드 진입 키를 먼저 보내 막는 작은 도구.<br>
+<sub>AutoHotkey v2</sub>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ## 기술
 
