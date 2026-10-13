@@ -1,0 +1,34 @@
+# "일하는 방식" 순환 도면 사양 — _design/excalidraw_kit.py로 생성
+name: how-i-work
+title: 일하는 방식
+subtitle: 문제에서 시작해 측정으로 닫고, 다시 문제로 돌아갑니다
+layout: cycle
+maxTextWidth: 230
+gapX: 90
+nodes:
+  - id: define
+    label: "문제 정의\n반복 업무와 병목 찾기"
+    role: primary
+  - id: diagnose
+    label: "데이터로 진단\n기록과 로그로 원인 확인"
+    role: info
+  - id: build
+    label: "사람 승인형 자동화 구현\n제안 → 승인 → 실행"
+    role: accent
+  - id: adopt
+    label: "현업 정착·운영\n매일 쓰는 도구로 만들기"
+    role: secondary
+  - id: measure
+    label: "성과 측정\n도입 전후 수치 비교"
+    role: success
+edges:
+  - {from: define, to: diagnose}
+  - {from: diagnose, to: build}
+  - {from: build, to: adopt}
+  - {from: adopt, to: measure}
+  - {from: measure, to: define, label: 다시 문제 정의, role: primary, style: dashed}
+notes:
+  - id: center
+    text: "반복 개선 루프"
+    at: center
+    fontSize: 20
