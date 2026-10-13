@@ -1,8 +1,8 @@
-![workzeroai — 광고 운영과 현장 업무를 AI·자동화 시스템으로 돌리는 AX 실무자](assets/banner.png)
+![workzeroai — 현장 업무를 데이터·자동화로 바꾸고, 현업이 매일 쓰게 만드는 업무 자동화 담당자](assets/banner.png)
 
-### 광고 운영과 현장 업무를 AI·자동화 시스템으로 돌리는 AX 실무자
+### 현장 업무를 데이터·자동화로 바꾸고, 현업이 매일 쓰게 만드는 업무 자동화 담당자
 
-<sub>An AX practitioner who turns ad operations and field work into AI & automation systems that teams use every day.</sub>
+<sub>A former performance marketer who now turns field work into data & automation systems that teams use every day.</sub>
 
 - 이전 직장에서 퍼포먼스 마케터로 **월 약 4천만 원 다채널 광고**를 운영했습니다.
 - 지금은 개발 조직이 없는 안전관리 전문 기업에서 현업의 반복 업무를 **LLM·API·자동화 시스템**으로 바꾸고, 현업이 매일 쓰도록 운영합니다.
@@ -12,8 +12,8 @@
 
 | 업무 | 결과 |
 |---|---|
-| 검색광고 운영 자동화 | 3개 계정, API 반영 37건 실행 오류 0 · 2주 비교 노출 +67%, 평균 노출순위 2.7 → 2.1위 |
-| LLM 계약서 PDF 자동 입력 | 약 1,145건 · 건당 1~3분(수기 추정) → 10~15초 |
+| 검색광고 운영 자동화 | 3개 계정, 광고가 꺼지던 날 2주 4일 → 0일 · API 반영 37건 실행 오류 0 · 클릭당 비용 유지(+0.8%) |
+| LLM 계약서 PDF 자동 입력 | 약 3,145건 · 건당 1~3분(수기 추정) → 10~15초 |
 | 견적 웹 도구 | 3개 사업부 약 2,250건 · 건당 6~24분 → 1~15분(추정) |
 | 업무 데이터 통합 | 흩어진 데이터 약 2.2만 건 통합 |
 
@@ -71,7 +71,6 @@ PDF를 정해진 형식으로 추출 → 스키마·업무 규칙 검증 → 실
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## 연락
