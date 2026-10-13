@@ -76,5 +76,5 @@ PDF를 정해진 형식으로 추출 → 스키마·업무 규칙 검증 → 실
 
 ## 연락
 
-- 이메일: [airowoon@gmail.com](mailto:airowoon@gmail.com)
+- 이메일: [workzeroai@gmail.com](mailto:workzeroai@gmail.com)
 - 노션 포트폴리오: [AX 포트폴리오](https://workzero.notion.site/AX-_-3d312e3c61c981958e60f69a8f6d546e)
