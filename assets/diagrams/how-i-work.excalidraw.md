@@ -223,10 +223,10 @@ tags: [excalidraw]
     {
       "id": "edge-define-diagnose-0",
       "type": "arrow",
-      "x": 527.59,
-      "y": 185.96,
-      "width": 117.34,
-      "height": 85.35,
+      "x": 528.0,
+      "y": 147.0,
+      "width": 172.0,
+      "height": 122.0,
       "angle": 0,
       "strokeColor": "#334155",
       "backgroundColor": "transparent",
@@ -254,12 +254,16 @@ tags: [excalidraw]
           0.0
         ],
         [
-          49.01,
-          16.24
+          111.0,
+          0.0
         ],
         [
-          117.34,
-          85.35
+          172.0,
+          61.0
+        ],
+        [
+          172.0,
+          122.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -279,10 +283,10 @@ tags: [excalidraw]
     {
       "id": "edge-diagnose-build-1",
       "type": "arrow",
-      "x": 691.55,
-      "y": 384.92,
-      "width": 71.52,
-      "height": 185.55,
+      "x": 640.0,
+      "y": 385.0,
+      "width": 0.0,
+      "height": 184.0,
       "angle": 0,
       "strokeColor": "#334155",
       "backgroundColor": "transparent",
@@ -293,9 +297,7 @@ tags: [excalidraw]
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": {
-        "type": 2
-      },
+      "roundness": null,
       "seed": 156392333,
       "version": 1,
       "versionNonce": 1486310002,
@@ -310,12 +312,8 @@ tags: [excalidraw]
           0.0
         ],
         [
-          -15.55,
-          106.48
-        ],
-        [
-          -71.52,
-          185.55
+          0.0,
+          184.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -335,10 +333,10 @@ tags: [excalidraw]
     {
       "id": "edge-build-adopt-2",
       "type": "arrow",
-      "x": 452.22,
-      "y": 657.67,
-      "width": 104.44,
-      "height": 12.53,
+      "x": 452.0,
+      "y": 627.0,
+      "width": 104.0,
+      "height": 0.0,
       "angle": 0,
       "strokeColor": "#334155",
       "backgroundColor": "transparent",
@@ -349,9 +347,7 @@ tags: [excalidraw]
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": {
-        "type": 2
-      },
+      "roundness": null,
       "seed": 1464851913,
       "version": 1,
       "versionNonce": 583681481,
@@ -366,11 +362,7 @@ tags: [excalidraw]
           0.0
         ],
         [
-          -52.22,
-          12.53
-        ],
-        [
-          -104.44,
+          -104.0,
           0.0
         ]
       ],
@@ -391,10 +383,10 @@ tags: [excalidraw]
     {
       "id": "edge-adopt-measure-3",
       "type": "arrow",
-      "x": 179.98,
-      "y": 570.47,
-      "width": 71.52,
-      "height": 185.55,
+      "x": 160.0,
+      "y": 569.0,
+      "width": 0.0,
+      "height": 184.0,
       "angle": 0,
       "strokeColor": "#334155",
       "backgroundColor": "transparent",
@@ -405,9 +397,7 @@ tags: [excalidraw]
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "roundness": {
-        "type": 2
-      },
+      "roundness": null,
       "seed": 1398078953,
       "version": 1,
       "versionNonce": 813530774,
@@ -422,12 +412,8 @@ tags: [excalidraw]
           0.0
         ],
         [
-          -55.98,
-          -79.07
-        ],
-        [
-          -71.52,
-          -185.55
+          0.0,
+          -184.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -447,10 +433,10 @@ tags: [excalidraw]
     {
       "id": "edge-measure-define-4",
       "type": "arrow",
-      "x": 158.23,
-      "y": 271.48,
-      "width": 134.11,
-      "height": 89.3,
+      "x": 100.0,
+      "y": 269.0,
+      "width": 192.0,
+      "height": 122.0,
       "angle": 0,
       "strokeColor": "#3730a3",
       "backgroundColor": "transparent",
@@ -459,7 +445,9 @@ tags: [excalidraw]
       "strokeStyle": "dashed",
       "roughness": 1,
       "opacity": 100,
-      "groupIds": [],
+      "groupIds": [
+        "grp-edge-measure-define-4"
+      ],
       "frameId": null,
       "roundness": {
         "type": 2
@@ -468,12 +456,7 @@ tags: [excalidraw]
       "version": 1,
       "versionNonce": 278077576,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "label-edge-measure-define-4"
-        }
-      ],
+      "boundElements": null,
       "updated": 1760000000000,
       "link": null,
       "locked": false,
@@ -483,12 +466,16 @@ tags: [excalidraw]
           0.0
         ],
         [
-          75.17,
-          -71.68
+          0.0,
+          -61.0
         ],
         [
-          134.11,
-          -89.3
+          61.0,
+          -122.0
+        ],
+        [
+          192.0,
+          -122.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -508,8 +495,8 @@ tags: [excalidraw]
     {
       "id": "label-edge-measure-define-4",
       "type": "text",
-      "x": 187.4,
-      "y": 189.8,
+      "x": 150.0,
+      "y": 119.0,
       "width": 92.0,
       "height": 20.0,
       "angle": 0,
@@ -520,7 +507,9 @@ tags: [excalidraw]
       "strokeStyle": "solid",
       "roughness": 0,
       "opacity": 100,
-      "groupIds": [],
+      "groupIds": [
+        "grp-edge-measure-define-4"
+      ],
       "frameId": null,
       "roundness": null,
       "seed": 1530970497,
@@ -537,7 +526,7 @@ tags: [excalidraw]
       "textAlign": "center",
       "verticalAlign": "middle",
       "baseline": 13.12,
-      "containerId": "edge-measure-define-4",
+      "containerId": null,
       "originalText": "다시 문제 정의",
       "lineHeight": 1.25
     },
